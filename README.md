@@ -116,6 +116,20 @@ Transfer Learning outperformed the Custom CNN by leveraging features learned fro
 
 ---
 
+## 📊 Results
+
+### Custom CNN Confusion Matrix
+
+![CNN Confusion Matrix](results/cnn_confusion_matrix.png)
+
+---
+
+### ResNet18 Transfer Learning Confusion Matrix
+
+![ResNet18 Confusion Matrix](results/resnet18_confusion_matrix.png)
+
+---
+
 ## 📷 Evaluation
 
 Both models were evaluated using:
@@ -123,6 +137,9 @@ Both models were evaluated using:
 - Test Accuracy
 - Confusion Matrix
 - Classification Report
+- Precision
+- Recall
+- F1-Score
 
 ---
 
